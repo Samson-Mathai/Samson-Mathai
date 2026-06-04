@@ -1,4 +1,4 @@
-## Hello devs
+## Hello there, I'm Samson Mathai 
 
 <!--
 **Samson-Mathai/Samson-Mathai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
