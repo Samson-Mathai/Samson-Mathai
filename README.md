@@ -2,7 +2,7 @@
 
 I'm a Data Science and Analytics student passionate about extracting actionable insights from complex datasets. I specialize in building end-to-end data pipelines, from data gathering and preprocessing to machine learning modeling and intuitive web deployments. 
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 * **Languages:** Python, R, SQL
 * **Databases:** Relational Databases, MongoDB (NoSQL)
 * **Frameworks & Libraries:** Pandas, Flask, Streamlit, BERTopic, NLTK
@@ -16,7 +16,7 @@ I'm a Data Science and Analytics student passionate about extracting actionable 
 * **Marketing ROI Dashboard**
   A dynamic analytics dashboard built with Python, Flask, and Jinja templates. Engineered to aggregate historical marketing data, filter anomalies, and track core performance metrics like cost-per-lead and conversion velocities across various campaigns.
 
-* **RAG Architecture with Vector Search **
+* **RAG Architecture with Vector Search**
   Currently implementing a Retrieval-Augmented Generation (RAG) system utilizing MongoDB. Focusing on embedding generation, chunking strategies, and `$vectorSearch` aggregation to perform highly accurate semantic searches on unstructured text data.
 
 ### Currently Learning
