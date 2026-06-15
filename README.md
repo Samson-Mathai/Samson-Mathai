@@ -1,4 +1,4 @@
-# Hello there, I'm Samson Mathai 
+# Hello there 👋, I'm Samson Mathai 
 
 I'm a Data Science and Analytics student passionate about extracting actionable insights from complex datasets. I specialize in building end-to-end data pipelines, from data gathering and preprocessing to machine learning modeling and intuitive web deployments. 
 
